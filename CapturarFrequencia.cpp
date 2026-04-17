@@ -61,7 +61,6 @@ int main() {
 
     std::cout << "\nTexto decifrado usando a frequência das letras:\n" << textoDecifrado << std::endl;
 
-
     return 0;
 
 }
